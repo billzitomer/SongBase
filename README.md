@@ -1,0 +1,3 @@
+# SongBase Project
+
+I created this project to explore SOA and cloud architecture. It is experimental and mainly a side project for fun. The function of SongBase is to provide song related information. I was inteested in tracing a song's history but there can be any song related info. The front end is a web app with tools to research songs. A separate API will deliver the content. Then on the backend I'm going to tap other API's for data, but probably will add a database as well, although I'm not intending to scrape and store data from other API's so the purpose of a database is yet to be determined.
